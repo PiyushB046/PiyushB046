@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Piyush%20Bavane&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Building%20AI%20that%20works%20for%20real%20people&descAlignY=58&descSize=16" width="100%" alt="Piyush Bavane" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,50:203a43,100:2c5364&height=170&text=Piyush%20Bavane&fontSize=46&fontColor=ffffff&fontAlignY=42&desc=Student%20%C2%B7%20Developer%20%C2%B7%20Builder&descAlignY=68&descSize=16&animation=fadeIn" width="100%" alt="Piyush Bavane" />
 
 <a href="https://github.com/PiyushB046">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=900&color=2C8FA8&center=true&vCenter=true&width=560&lines=Student+and+AI+%2F+ML+builder;RAG%2C+LLMs+and+voice+interfaces;Tech+for+Indian+languages+and+civic+good" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=900&color=2C8FA8&center=true&vCenter=true&width=560&lines=Student+who+builds+things;Turning+ideas+into+working+software;Always+learning%2C+always+shipping" alt="Typing intro" />
 </a>
 
 </div>
@@ -54,4 +54,4 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=6" width="100%" alt="" />
