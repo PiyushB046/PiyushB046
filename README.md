@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,50:203a43,100:2c5364&height=170&text=Piyush%20Bavane&fontSize=46&fontColor=ffffff&fontAlignY=42&desc=Student%20%C2%B7%20Developer%20%C2%B7%20Builder&descAlignY=68&descSize=16&animation=fadeIn" width="100%" alt="Piyush Bavane" />
+<img src="./banner.svg" width="100%" alt="Piyush Bavane" />
 
 <a href="https://github.com/PiyushB046">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=900&color=2C8FA8&center=true&vCenter=true&width=560&lines=Student+who+builds+things;Turning+ideas+into+working+software;Always+learning%2C+always+shipping" alt="Typing intro" />
@@ -53,5 +53,3 @@
 <a href="https://www.linkedin.com/in/piyush-b-739a6b250"><img src="https://img.shields.io/badge/LinkedIn-2c5364?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=6" width="100%" alt="" />
