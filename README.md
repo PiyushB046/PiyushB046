@@ -14,7 +14,7 @@
 - 🧠 I build applied AI projects: retrieval-augmented generation, LLM apps and classic ML
 - 🌾 I care about tech that reaches people in their own language, especially Marathi
 - 🏆 Hackathon builder (Smart India Hackathon and others)
-- 🔭 Currently exploring voice interfaces and LLM apps for Indian languages
+- 🔭 Currently working on a Marathi voice assistant for farmer schemes and a heart disease risk predictor
 
 ## Tech stack
 
@@ -33,6 +33,16 @@
 <img src="https://skillicons.dev/icons?i=react,tailwind,postgres,supabase,git,github,vscode&theme=dark" alt="React, Tailwind, PostgreSQL, Supabase, Git, GitHub, VS Code" />
 
 </div>
+
+## Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| **YojanaMitra** 🌾 | Marathi voice assistant that helps Maharashtra farmers find and understand government schemes. Bilingual PWA. | Python, RAG, Gemini, Sarvam |
+| **CardioRisk** ❤️ | Heart disease risk prediction from clinical features. | Python, ML |
+| **[MindMate](https://github.com/PiyushB046/mindmate-app)** 🧘 | Mental wellness companion app. | Python |
+| **[FactSarkar](https://github.com/PiyushB046/FactSarkar)** 🔎 | Team project: verifies government-related news against official sources like the Press Information Bureau, using LLMs. | Python, LLMs |
+| **[CivicShield AI](https://github.com/PiyushB046/civicshieldai)** 🛡️ | Team project: disaster management platform with multi-hazard monitoring, risk analytics and multilingual alerts. | React, Node.js, FastAPI, PostGIS |
 
 ## GitHub stats
 
