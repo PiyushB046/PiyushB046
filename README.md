@@ -2,9 +2,7 @@
 
 <img src="./banner.svg" width="100%" alt="Piyush Bavane" />
 
-<a href="https://github.com/PiyushB046">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=900&color=2C8FA8&center=true&vCenter=true&width=560&lines=Student+who+builds+things;Turning+ideas+into+working+software;Always+learning%2C+always+shipping" alt="Typing intro" />
-</a>
+<h3>Turning ideas into working software. Always learning, always shipping.</h3>
 
 </div>
 
