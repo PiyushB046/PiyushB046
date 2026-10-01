@@ -10,11 +10,11 @@
 
 ## About me
 
-- 🎓 Student who learns by building
-- 🧠 I build applied AI projects: retrieval-augmented generation, LLM apps and classic ML
-- 🌾 I care about tech that reaches people in their own language, especially Marathi
+- 🎓 Student who learns best by building things
+- 💻 I enjoy turning ideas into working software, from quick prototypes to full apps
+- 🧠 Curious about AI and machine learning, and always picking up something new
 - 🏆 Hackathon builder (Smart India Hackathon and others)
-- 🔭 Currently working on a Marathi voice assistant for farmer schemes and a heart disease risk predictor
+- 🤝 Open to collaborating on interesting projects
 
 ## Tech stack
 
@@ -51,8 +51,6 @@
 
 <a href="mailto:piyushbavane0416@gmail.com"><img src="https://img.shields.io/badge/Email-203a43?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://www.linkedin.com/in/piyush-b-739a6b250"><img src="https://img.shields.io/badge/LinkedIn-2c5364?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-
-<img src="https://komarev.com/ghpvc/?username=PiyushB046&label=Profile%20views&color=2c5364&style=flat" alt="Profile views" />
 
 </div>
 
