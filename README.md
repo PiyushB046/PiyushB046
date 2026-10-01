@@ -36,8 +36,8 @@
 
 | Project | What it does | Stack |
 |---|---|---|
-| **YojanaMitra** 🌾 | Marathi voice assistant that helps Maharashtra farmers find and understand government schemes. Bilingual PWA. | Python, RAG, Gemini, Sarvam |
-| **CardioRisk** ❤️ | Heart disease risk prediction from clinical features. | Python, ML |
+| **[YojanaMitra](https://github.com/PiyushB046/YojanaMitra)** 🌾 | Marathi voice assistant that helps Maharashtra farmers find and understand government schemes. Bilingual PWA. | Python, RAG, Gemini, Sarvam |
+| **[CardioRisk](https://github.com/PiyushB046/CardioRisk)** ❤️ | Heart disease risk prediction from clinical features. | Python, ML |
 | **[MindMate](https://github.com/PiyushB046/mindmate-app)** 🧘 | Mental wellness companion app. | Python |
 | **[FactSarkar](https://github.com/PiyushB046/FactSarkar)** 🔎 | Team project: verifies government-related news against official sources like the Press Information Bureau, using LLMs. | Python, LLMs |
 | **[CivicShield AI](https://github.com/PiyushB046/civicshieldai)** 🛡️ | Team project: disaster management platform with multi-hazard monitoring, risk analytics and multilingual alerts. | React, Node.js, FastAPI, PostGIS |
