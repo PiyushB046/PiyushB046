@@ -43,17 +43,7 @@
 | **[MindMate](https://github.com/PiyushB046/mindmate-app)** 🧘 | Mental wellness companion app. | Python |
 | **[FactSarkar](https://github.com/PiyushB046/FactSarkar)** 🔎 | Team project: verifies government-related news against official sources like the Press Information Bureau, using LLMs. | Python, LLMs |
 | **[CivicShield AI](https://github.com/PiyushB046/civicshieldai)** 🛡️ | Team project: disaster management platform with multi-hazard monitoring, risk analytics and multilingual alerts. | React, Node.js, FastAPI, PostGIS |
-
-## GitHub stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=PiyushB046&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushB046&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PiyushB046&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-</div>
+| **???** 🚧 | Still cooking. More projects are on the way, as soon as I finish arguing with my bugs. | Coffee, curiosity |
 
 ## Connect
 
