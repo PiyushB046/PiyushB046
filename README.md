@@ -38,7 +38,7 @@
 |---|---|---|
 | **[YojanaMitra](https://github.com/PiyushB046/YojanaMitra)** 🌾 | Marathi voice assistant that helps Maharashtra farmers find and understand government schemes. Bilingual PWA. | Python, RAG, Gemini, Sarvam |
 | **[CardioRisk](https://github.com/PiyushB046/CardioRisk)** ❤️ | Predicts heart disease risk from 13 routine clinical measurements, with leakage-free evaluation and a per-patient explanation of every prediction. | Python, XGBoost, FastAPI, PostgreSQL |
-| **[MindMate](https://github.com/PiyushB046/mindmate-app)** 🧘 | Mental wellness companion app. | Python |
+| **[MindMate](https://github.com/PiyushB046/mindmate-app)** 🧘 | Mental health companion with a local Llama 3 chatbot and small games (trivia, This or That, cognitive reframing) that classify your answers with an ML text model. | Python, Streamlit, scikit-learn, Ollama |
 | **[FactSarkar](https://github.com/PiyushB046/FactSarkar)** 🔎 | Team project: verifies government-related news against official sources like the Press Information Bureau, using LLMs. | Python, LLMs |
 | **[CivicShield AI](https://github.com/PiyushB046/civicshieldai)** 🛡️ | Team project: disaster management platform with multi-hazard monitoring, risk analytics and multilingual alerts. | React, Node.js, FastAPI, PostGIS |
 | **???** 🚧 | Still cooking. More projects are on the way, as soon as I finish arguing with my bugs. | Coffee, curiosity |
